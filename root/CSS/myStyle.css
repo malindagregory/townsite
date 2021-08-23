@@ -1,0 +1,27 @@
+/* External Style Sheeet */
+body {
+    background-color: #41393d;
+    color: #d7e4c2;
+    font-size: 1.1em;
+}
+h1 {
+    color: #d7e4c2;
+}
+#intro {
+    font-size: 1.3em;
+}
+.colorful {
+    color: #d7e4c2;
+}
+header {
+	background-image: url("root/images/com232_brand_logos_1.png");
+	background-repeat: no-repeat;
+	background-color: #41393d;
+	width: 375px;
+	height: 100px; 
+}.center-block {
+}
+.centerblock {
+}
+.img {
+}
